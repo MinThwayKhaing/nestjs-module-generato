@@ -1,0 +1,17 @@
+{
+  "name": "nestjs-module-generator",
+  "version": "1.0.1",
+  "description": "A CLI tool to generate NestJS modules with folder structure and boilerplate files.",
+  "main": "index.js",
+  "bin": {
+    "generate-module": "./bin/index.js"
+  },
+  "keywords": [
+    "nestjs",
+    "cli",
+    "module",
+    "generator"
+  ],
+  "author": "Min Thway Khaing",
+  "license": "MIT"
+}
